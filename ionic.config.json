@@ -1,0 +1,7 @@
+{
+  "name": "appAfiliados",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
